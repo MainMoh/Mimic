@@ -1,0 +1,13 @@
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Mohs Mimic Tool.exe.config
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Mohs Mimic Tool.exe
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Mohs Mimic Tool.pdb
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Sulakore.dll
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs Mimic Tool.csprojResolveAssemblyReference.cache
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs_Mimic_Tool.Form1.resources
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs_Mimic_Tool.Properties.Resources.resources
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs Mimic Tool.csproj.GenerateResource.Cache
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs Mimic Tool.exe
+c:\users\hasan\documents\visual studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\obj\Debug\Mohs Mimic Tool.pdb
+C:\Users\Hasan\Documents\Visual Studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\FlashInspect.dll
+C:\Users\Hasan\Documents\Visual Studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Tangine.dll
+C:\Users\Hasan\Documents\Visual Studio 2015\Projects\Mohs Mimic Tool\Mohs Mimic Tool\bin\Debug\Sulakore.xml

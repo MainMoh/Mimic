@@ -1,4 +1,4 @@
-# Mimic
+# Mimic v1.2
 Mimic tool extension for Tanji on Habbo Hotel.
 
 Information:
